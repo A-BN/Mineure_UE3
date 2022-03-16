@@ -17,3 +17,5 @@ dependencies:
   - nodejs
   - pip:
     - bash_kernel
+  # ABN MODIF
+  - bcftools=1.15
