@@ -18,4 +18,4 @@ dependencies:
   - pip:
     - bash_kernel
   # ABN MODIF
-  - bcftools=1.15
+  - bcftools
