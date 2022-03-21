@@ -1,4 +1,4 @@
-name: plasmabio-template-bash
+name: plasmabio-Mineure_UE3
 # channels priority
 # see https://bioconda.github.io/
 # conda-forge has highest priority
@@ -15,7 +15,9 @@ dependencies:
   - jupyterlab-topbar-text
   - jupyterlab-system-monitor
   - nodejs
-  - pip:
-    - bash_kernel
+  - bash_kernel
   # ABN MODIF
-
+  - r-irkernel
+  - r-base>=4
+  - r-tidyverse
+  - pip:
