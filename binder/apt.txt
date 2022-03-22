@@ -3,4 +3,8 @@ nano
 gawk
 tree
 htop
+#Mein
 bcftools
+texlive-latex-base
+texlive-fonts-recommended
+texlive-fonts-extra
