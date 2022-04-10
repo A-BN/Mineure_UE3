@@ -1,1 +1,1 @@
-# Mineur Santé
+# Mineure Recherche en Santé
